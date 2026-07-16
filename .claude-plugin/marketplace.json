@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "claude-quiet",
-      "source": "./plugins/claude-quiet"
+      "name": "quiet-claude",
+      "source": "./plugins/quiet-claude"
     }
   ]
 }
