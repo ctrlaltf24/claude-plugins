@@ -1,0 +1,9 @@
+{
+  "name": "claude-quiet",
+  "description": "Uses hooks for force Claude to be more terse.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nathan Shaaban",
+    "email": "86252985+ctrlaltf24@users.noreply.github.com"
+  }
+}

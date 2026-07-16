@@ -1,0 +1,13 @@
+{
+  "name": "ctrlaltf24-plugins",
+  "owner": {
+    "name": "Nathan Shaaban",
+    "email": "86252985+ctrlaltf24@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-quiet",
+      "source": "./plugins/claude-quiet"
+    }
+  ]
+}
